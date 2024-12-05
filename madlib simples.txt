@@ -1,6 +1,0 @@
-nome = input("escreve um nome: ")
-cidade = input("escreve uma cidade: ")
-supermercado = input ("escreve um supermercado: ")
-legumes = input ("escreve um legume: ")
-madlib = f"Era uma vez um menino chamado {nome} que vivia em {cidade}. Um dia foi ao {supermercado} e comprou {legumes}"
-print(madlib)
